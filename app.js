@@ -31,3 +31,5 @@ for (i = 0; i < cards.length; i++) {
     "#carta"
   ).innerHTML += `<div class='col col-sm-4 mb-4' ><div class='card '  ><img src=${packs[i]} class='card-img-top' alt='...'><div class='card-body'> <h5 class='card-title'>Aaron Montivero</h5><p class='card-text'>Estudiante de Desarrollo Web Full Stack  | HTML | CSS | JS | C</p><a target='_blank' href='https://www.linkedin.com/in/aaron-luciano-montivero/' class='btn btn-primary'>Linkedin</a></div></div></div>`;
 }
+
+// https://placeit.net/c/mockups/stages/t-shirt-mockup-featuring-a-bearded-man-leaning-against-a-rusty-wall-32841?colorFolder_Shirt%20Color=%23000000

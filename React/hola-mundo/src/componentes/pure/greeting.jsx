@@ -10,7 +10,7 @@ class Greeting extends Component {
       this.state = {
          age: 21
       }
-    }
+    }       
 
 
     render() {
@@ -35,7 +35,7 @@ class Greeting extends Component {
  
 
 Greeting.propTypes = {
-
+    name: PropTypes.string
 };
 
 
